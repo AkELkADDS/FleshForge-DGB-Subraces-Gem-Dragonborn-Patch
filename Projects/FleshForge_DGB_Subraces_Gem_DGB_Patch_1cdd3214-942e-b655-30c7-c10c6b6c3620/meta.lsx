@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="1cdd3214-942e-b655-30c7-c10c6b6c3620"/>
+            <attribute id="Name" type="LSString" value="FleshForge_DGB_Subraces_Gem_DGB_Patch"/>
+            <attribute id="UUID" type="LSString" value="35d2bc47-2d9f-a9e5-2ff1-33b5d023f0b1"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

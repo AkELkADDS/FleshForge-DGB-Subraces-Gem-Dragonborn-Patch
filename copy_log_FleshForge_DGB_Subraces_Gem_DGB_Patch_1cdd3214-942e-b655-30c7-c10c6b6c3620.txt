@@ -1,0 +1,303 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+   Fri 11/07/2025 23:39:09.80 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\00f427f0-acaa-15ec-169e-18972abe575e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\169f54e1-f25b-42f4-08c2-ee05ceebaa61.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\171afaf6-e28b-ff29-2b03-4ab9fb50e12d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\1a576933-dda4-6059-a237-96511111722f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\28922f44-042e-09af-172d-2b5b502acab2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\2b8fd276-6569-ad2b-e8d9-c051f84e9555.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\4f0e7e5c-267b-1c59-e257-3670e594d73f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\56e80329-7d7b-211b-e522-2457c7cd46b9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\5d891979-c08a-0086-9a90-caa9e3995545.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\66bb91d5-62b9-5503-70e6-941dea583a03.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\7073d504-87bd-5ca3-faa5-f051a4fa71e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\9d16baf2-38c3-5312-f7ea-95555531bf71.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\ae0ab878-468f-ee8f-714f-0be37849f760.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\b14c87df-9404-0611-4c73-a851ed7f3b5a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\c0226231-d13e-66a5-69a0-f5ae0bac1b84.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\c2df0433-b418-975b-1086-2db0b373d1ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\f0e59036-245c-39b2-751a-9d192c370e82.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\fede8e23-941e-cdad-cef0-90238a388b4a.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 18 
+ 
+[LOG] Total files found across all folders: 24 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 to Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using destination: Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:39:13 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\meta.lsx100%  
+	    New File  		  601726	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   588.3 k   588.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           602442000 Bytes/sec.
+   Speed :           34472.007 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:39:13 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 to "Editor\Mods"\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using destination: Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:39:14 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:39:14 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 to Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using destination: Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:39:16 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\meta.lsx100%  
+	    New File  		  601726	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   603.3 k   603.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           308925000 Bytes/sec.
+   Speed :           17676.830 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:39:16 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 to Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[DEBUG] Using destination: Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:39:17 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3969	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\00f427f0-acaa-15ec-169e-18972abe575e.lsf100%  
+	    New File  		    3970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\169f54e1-f25b-42f4-08c2-ee05ceebaa61.lsf100%  
+	    New File  		    4596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\171afaf6-e28b-ff29-2b03-4ab9fb50e12d.lsf100%  
+	    New File  		    3970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\1a576933-dda4-6059-a237-96511111722f.lsf100%  
+	    New File  		    3970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\28922f44-042e-09af-172d-2b5b502acab2.lsf100%  
+	    New File  		    3970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\2b8fd276-6569-ad2b-e8d9-c051f84e9555.lsf100%  
+	    New File  		    3854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\4f0e7e5c-267b-1c59-e257-3670e594d73f.lsf100%  
+	    New File  		    4593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\56e80329-7d7b-211b-e522-2457c7cd46b9.lsf100%  
+	    New File  		    4595	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\5d891979-c08a-0086-9a90-caa9e3995545.lsf100%  
+	    New File  		    4596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\66bb91d5-62b9-5503-70e6-941dea583a03.lsf100%  
+	    New File  		    4595	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\7073d504-87bd-5ca3-faa5-f051a4fa71e5.lsf100%  
+	    New File  		    4596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\9d16baf2-38c3-5312-f7ea-95555531bf71.lsf100%  
+	    New File  		    3966	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\ae0ab878-468f-ee8f-714f-0be37849f760.lsf100%  
+	    New File  		    3858	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\b14c87df-9404-0611-4c73-a851ed7f3b5a.lsf100%  
+	    New File  		    4834	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\c0226231-d13e-66a5-69a0-f5ae0bac1b84.lsf100%  
+	    New File  		    3969	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\c2df0433-b418-975b-1086-2db0b373d1ec.lsf100%  
+	    New File  		    3967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\f0e59036-245c-39b2-751a-9d192c370e82.lsf100%  
+	    New File  		    4592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620\Content\[PAK]_CharacterVisuals\fede8e23-941e-cdad-cef0-90238a388b4a.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :        18        18         0         0         0         0
+   Bytes :    74.6 k    74.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            12743333 Bytes/sec.
+   Speed :             729.179 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:39:17 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 18 
+[DEBUG] Successfully copied files: 18 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620: 
+      Total files: 18 
+      Copied successfully: 18 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_DGB_Subraces_Gem_DGB_Patch_1cdd3214-942e-b655-30c7-c10c6b6c3620 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 18 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 24 
+[SUMMARY] Total files successfully copied: 48 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
